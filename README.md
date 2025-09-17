@@ -41,17 +41,6 @@ Modelo de banco de dados para gestão hospitalar, com tabelas de pacientes, méd
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Matheus-1895">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-1895&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-1895&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ## 🌱 O que estou aprendendo agora
 
 - Data Science com **Python, Pandas e SQL**  
@@ -62,9 +51,9 @@ Modelo de banco de dados para gestão hospitalar, com tabelas de pacientes, méd
 
 ## 📫 Contato
 
-- 📧 E-mail: **matheus04.dev@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheusribeiro2004/)
-- 📂 [Portfólio de Projetos no GitHub](https://github.com/Matheus-1895?tab=repositories)
+- 📧 E-mail: <a href="mailto:matheus04.dev@gmail.com" target="_blank">matheus04.dev@gmail.com</a>  
+- 💼 <a href="https://www.linkedin.com/in/matheusribeiro2004/" target="_blank">LinkedIn</a>  
+- 📂 <a href="https://github.com/Matheus-1895?tab=repositories" target="_blank">Portfólio de Projetos no GitHub</a>
 
 ---
 
