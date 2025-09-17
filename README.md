@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo(a) ao meu perfil
 
 Meu nome é **Matheus Ribeiro**, tenho 21 anos e sou estudante do **8º período de Engenharia da Computação** na Universidade Veiga de Almeida (UVA – RJ).  
-Atualmente busco meu **primeiro estágio na área de tecnologia**, com foco em **desenvolvimento e análise de dados**.
+Atualmente busco meu **primeiro estágio na área de tecnologia**, com foco em **desenvolvimento, análise de dados e infraestrutura de redes**.
 
 ---
 
