@@ -34,7 +34,7 @@ Atualmente busco meu **primeiro estágio na área de tecnologia**, com foco em *
 
 ## 📁 Projetos em Destaque
 
-🔹 **[Sistema de Gerenciamento de Campeonatos](https://github.com/Matheus-1895/Projeto-Campeonatos)**  
+🔹 **[Sistema de Gerenciamento de Campeonatos](https://github.com/Matheus-1895/Projeto-Campeonatos--MySQL)** 
 Sistema desenvolvido em **MySQL** para gerenciamento de clubes, jogadores, estádios, jogos e árbitros.  
 
 🔹 **[SQL Server – Hospital](https://github.com/Matheus-1895/SQLServer-Hospital)**  
