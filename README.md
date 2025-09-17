@@ -11,7 +11,8 @@ Atualmente busco meu **primeiro estágio na área de tecnologia**, com foco em *
 - 🎓 Formação em andamento: Engenharia da Computação  
 - 📚 Cursos complementares:
   - Lógica de Programação – Udemy   
-  - Análise de Dados Impressionador – Hashtag Treinamentos  
+  - SQL Impressionador – Hashtag Treinamentos
+  - MySQL - Curso em vídeo
   - Curso de Representante Farmacêutico – Repfarma
   - Curso de Inglês no IBEU (nível pré-intermediário) - Em andamento
 
@@ -49,12 +50,13 @@ Modelo de banco de dados para gestão hospitalar, com tabelas de pacientes, méd
 
 ---
 
-## 📫 Contato
+## 📫 Contato 
 
-- 📧 E-mail: <a href="mailto:matheus04.dev@gmail.com" target="_blank">matheus04.dev@gmail.com</a>  
-- 💼 <a href="https://www.linkedin.com/in/matheusribeiro2004/" target="_blank">LinkedIn</a>  
-- 📂 <a href="https://github.com/Matheus-1895?tab=repositories" target="_blank">Portfólio de Projetos no GitHub</a>
-
+- 📧 E-mail: **matheus04.dev@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheusribeiro2004/)
+- 📂 [Portfólio de Projetos no GitHub](https://github.com/Matheus-1895?tab=repositories)
+- 📄 [Currículo em PDF](https://drive.google.com/file/d/1FsRhTQqWpYZmdQbHVz47HgScLnGnIoCr/view?usp=sharing)
+  
 ---
 
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
